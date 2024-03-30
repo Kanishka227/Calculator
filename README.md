@@ -25,4 +25,4 @@ A fully functional calculator application.
 
 6. # Contributing
 
-We welcome contributions from the community! Whether you're fixing a bug, implementing a new feature, or improving documentation, we appreciate your help in making this project better.
+I welcome contributions from the community! Whether you're fixing a bug, implementing a new feature, or improving documentation, I appreciate your help in making this project better.
