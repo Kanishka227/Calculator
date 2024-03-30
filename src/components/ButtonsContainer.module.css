@@ -1,0 +1,13 @@
+.btn{
+  height: 40px;
+  width: 40px;
+  border: 2px solid gray;
+  margin: 10px;
+  border-radius: 5px;
+}
+.buttonsContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,10 @@
+.mainContainer{
+ width: 320px;
+ border: 2px solid gray;
+ min-height: 500px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-wrap: wrap;
+ border-radius: 10px;
+}
