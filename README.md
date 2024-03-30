@@ -1,4 +1,4 @@
-- # Calculator
+# Calculator
 
 A fully functional calculator application.
 
