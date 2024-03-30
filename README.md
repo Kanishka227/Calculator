@@ -19,7 +19,7 @@ A fully functional calculator application.
 
 3. npm install
 
-4. npm start
+4. npm run dev
 
 5. The server will start at http://localhost:3000.
 
