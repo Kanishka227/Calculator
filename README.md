@@ -1,6 +1,6 @@
 # Calculator
 
-A fully functional calculator application.
+This repository contains a simple calculator application built using ReactJS. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Setup
 
@@ -21,7 +21,7 @@ A fully functional calculator application.
 
 4. npm run dev
 
-5. The server will start at http://localhost:3000.
+5. The server will start running.
 
 6. # Contributing
 
